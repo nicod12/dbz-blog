@@ -4,6 +4,6 @@
 
 ```
 git clone https://github.com/nicod12/dbz-blog.git
-cd redux-tcrud
+cd dbz-blog
 npm i
-npm st
+npm run dev
