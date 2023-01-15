@@ -8,6 +8,7 @@ const CharacterComponent = () => {
 
 
 
+  
   return (
     <main className="flex min-h-screen items-center justify-center bg-orange-200 mt-44 ">
         

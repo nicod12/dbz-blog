@@ -15,7 +15,7 @@ const HomeComponent = () => {
 
 
             <img 
-                src="../src/assets/shenlong.png" 
+                src="../src/assets/shenlong.webp" 
                 alt="..."
                 className="h-1/4 w-auto mt-10 m-auto animate-pulse" 
             />

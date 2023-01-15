@@ -13,12 +13,12 @@ const NavBar = () => {
             <div className='flex justify-center items-center'>
                 <Link to={'/'}>
                     <img 
-                        src="../src/assets/dbz.png" 
+                        src="../src/assets/dbz.webp" 
                         alt="logo"
                         className='h-12 w-auto' 
                     />
                 </Link>
-                <img src="../src/assets/goku.png" alt="goku" className='h-24 w-auto' />
+                <img src="../src/assets/goku.webp" alt="goku" className='h-24 w-auto' />
             </div>
             <nav className='flex gap-8 text-xl uppercase font-bold p-2'>
                 <NavLink 
